@@ -12,7 +12,6 @@
 * [Europechain](https://t.me/europechain)
 * [FIO](https://t.me/joinFIO)
 * [ORE](https://t.me/OfficialAIKON)
-* [ONO](https://t.me/ONOUS)
 * [Snax](https://t.me/snaxone)
 * [PIZZA](https://t.me/PIZZAUSDE)
 * [Equilibrium](https://t.me/equilibrium_eosdt_official)
