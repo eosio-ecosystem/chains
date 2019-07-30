@@ -1,21 +1,21 @@
 # Public EOSIO chains and their telegram chats
 
-* EOS - t.me/EOSproject
-* Telos - t.me/HelloTelos
-* EOSfinex - t.me/eosfinexproject
-* Meet.one - t.me/meetonechain
-* Worbli - t.me/worblicommunity
-* EOS Force - t.me/EOSForce
-* PrivEOS - t.me/SLANT_official
-* BEOS - t.me/officialbeos
-* BOS - t.me/boscorecommunity
-* Europechain - t.me/europechain
-* FIO - t.me/joinFIO
-* ORE - t.me/OfficialAIKON
-* ONO - t.me/ONOUS
-* Snax - t.me/snaxone
-* PIZZA - t.me/PIZZAUSDE
-* Equilibrium - t.me/equilibrium_eosdt_official
-* Enumivo - t.me/enumivochat
-* FIBOSio - t.me/FIBOSIO
-* WAX.io - t.me/wax_io
+* [EOS](https://t.me/EOSproject)
+* [Telos](https://t.me/HelloTelos)
+* [EOSfinex](https://t.me/eosfinexproject)
+* [Meet.one](https://t.me/meetonechain)
+* [Worbli](https://t.me/worblicommunity)
+* [EOS Force](https://t.me/EOSForce)
+* [PrivEOS](https://t.me/SLANT_official)
+* [BEOS](https://t.me/officialbeos)
+* [BOS](https://t.me/boscorecommunity)
+* [Europechain](https://t.me/europechain)
+* [FIO](https://t.me/joinFIO)
+* [ORE](https://t.me/OfficialAIKON)
+* [ONO](https://t.me/ONOUS)
+* [Snax](https://t.me/snaxone)
+* [PIZZA](https://t.me/PIZZAUSDE)
+* [Equilibrium](https://t.me/equilibrium_eosdt_official)
+* [Enumivo](https://t.me/enumivochat)
+* [FIBOSio](https://t.me/FIBOSIO)
+* [WAX.io](https://t.me/wax_io)
