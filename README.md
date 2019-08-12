@@ -6,7 +6,6 @@
 * [Meet.one](https://t.me/meetonechain)
 * [Worbli](https://t.me/worblicommunity)
 * [EOS Force](https://t.me/EOSForce)
-* [PrivEOS](https://t.me/SLANT_official)
 * [BEOS](https://t.me/officialbeos)
 * [BOS](https://t.me/boscorecommunity)
 * [Europechain](https://t.me/europechain)
@@ -18,3 +17,7 @@
 * [Enumivo](https://t.me/enumivochat)
 * [FIBOSio](https://t.me/FIBOSIO)
 * [WAX.io](https://t.me/wax_io)
+
+# Inter-chain projects
+
+* [PrivEOS](https://t.me/SLANT_official)
