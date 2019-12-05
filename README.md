@@ -17,6 +17,7 @@
 * [Enumivo](https://t.me/enumivochat)
 * [FIBOSio](https://t.me/FIBOSIO)
 * [WAX.io](https://t.me/wax_io)
+* [Remme](https://t.me/remme)
 
 # Inter-chain projects
 
