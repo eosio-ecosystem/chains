@@ -18,6 +18,8 @@
 * [FIBOSio](https://t.me/FIBOSIO)
 * [WAX.io](https://t.me/wax_io)
 * [Remme](https://t.me/remme)
+* [Lynxchain](https://t.me/lynxchain)
+* [INSTAR](https://t.me/InsightsNetwork)
 
 # Inter-chain projects
 
