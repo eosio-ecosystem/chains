@@ -34,8 +34,8 @@ account, it will be easier to count them.
 
 * by `@unsuspiciouscat` (Jackson MacFluffy): [ban @wilfrawilfra and @SirFuzzalot - Jackson MacFluffy](https://bloks.io/transaction/55a92a07d8a3811627a826ded146c0970fc3340df5ba98137ea74a4ec277a878)
 
-* by `@Billion8888`: [ban @wilfrawilfra and @SirFuzzalot - From @EOSIOproject T.G Admin : Max_Cho EOSIO](https://bloks.io/transaction/f674fcbc2f5cf087e791fea40b7dcb9945df8fc04035969b8db80aa0956fc37e)
+* by `@Billion8888` (Max_Cho): [ban @wilfrawilfra and @SirFuzzalot - From @EOSIOproject T.G Admin : Max_Cho EOSIO](https://bloks.io/transaction/f674fcbc2f5cf087e791fea40b7dcb9945df8fc04035969b8db80aa0956fc37e)
 
-* by `@gluedog`: [supporting the ban of @wilfrawilfra and @sirfuzzalot](https://bloks.io/transaction/4e1930c96207d267065d89115799a9ed4eb5c95d3d615a77199da9d9138a0042)
+* by `@gluedog` (glue dog): [supporting the ban of @wilfrawilfra and @sirfuzzalot](https://bloks.io/transaction/4e1930c96207d267065d89115799a9ed4eb5c95d3d615a77199da9d9138a0042)
 
 
