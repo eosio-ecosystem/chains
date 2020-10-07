@@ -23,7 +23,7 @@ maintainer, and the new maintainer is free to unban them if needed.
 
 > How to vote: send a transfer of a small amount, such as 0.0001 EOS,
 with the memo text that includes your Telegram handle, like this: "ban
-@wilfrawilfra and @SirFuzzalot - @MYHANDLE", and send the transaction
+@wilfrawilfra and @SirFuzzalot from EOSIOproject - @MYHANDLE", and send the transaction
 ID to this chat and DM a copy to me.
 
 > EOS, Telos, or WAX transactions will be fine. If you send them to "b1"
