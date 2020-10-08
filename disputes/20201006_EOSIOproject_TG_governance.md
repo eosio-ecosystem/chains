@@ -38,4 +38,6 @@ account, it will be easier to count them.
 
 * by `@gluedog` (glue dog): [supporting the ban of @wilfrawilfra and @sirfuzzalot](https://bloks.io/transaction/4e1930c96207d267065d89115799a9ed4eb5c95d3d615a77199da9d9138a0042)
 
+* by `@Infinityblocio` (Justin | infinitybloc.io): [ban @wilfrawilfra and @SirFuzzalot - From @EOSIOproject T.G Admin : infinityblocio EOSIO](https://telos.bloks.io/transaction/0b1410a6f3c6e8f50e24f9a4ad6a4406d9f7836413117aa77bbd67b692907f46)
 
+* by `@chonge`: [ban wilma and fudzy ! @chonge](https://eos.bloks.io/transaction/52dbe11d43fa657ae3b9f990f04fff20b5dfcd26d7a25f83c5d547fe22b724ea)
